@@ -14,10 +14,14 @@
   - [Questions](#questions)
   
   ## Installation
-
+  - To install, click the green code button. Download the zip file and unpack. Open in your favourite code editor.
+  - Open index.js and open the terminal
+  - In the terminal run "npm install inquirer"
+  - In the termianl run "node index.js"
+  - Follow the prompts shown on screen
 
   ## Usage
-
+  [Watch Usage Video](https://drive.google.com/file/d/1zb20uKC0ifwe5x9tspJQHuzmUu3RPpoI/view?usp=sharing).
 
   ![Screenshot](assets/images/screenshot.png)
   
