@@ -66,7 +66,7 @@ function init() {
     inquirer
       .prompt(questions)
       .then(answers => {
-        writeToFile('README.md',answers);
+        writeToFile('README-sample.md',answers);
       })
       .catch(error => {
         console.log('Error');
